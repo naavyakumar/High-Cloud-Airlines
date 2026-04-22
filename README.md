@@ -40,8 +40,11 @@ The High Cloud Airlines Dashboard is a data analytics project designed to analyz
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard Screenshot](airline.png ar2.png ar3.png ar3.png)
 
+![Airline Dashboard](airline.png)
+![Analysis 1](ar2.png)
+![Analysis 2](ar3.png)
+![Analysis 3](ar4.png)
 ---
 
 ## 🔍 Insights Generated
